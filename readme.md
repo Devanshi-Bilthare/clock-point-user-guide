@@ -1,4 +1,4 @@
-# Attendance Management System User Guide
+# Clock Point System User Guide
 
 ## Admin Credientials
 **Email** : devanshi@gmail.com
