@@ -1,4 +1,4 @@
-# Clock Point System User Guide
+# Clock Point User Guide
 
 ## Admin Credientials
 **Email** : devanshi@gmail.com
