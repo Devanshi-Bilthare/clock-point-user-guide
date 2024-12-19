@@ -1,6 +1,6 @@
 # Clock Point User Guide
 
-## Admin Credientials
+## Admin Credentials
 **Email** : devanshi@gmail.com
 **Password** : 123456
 
