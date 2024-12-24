@@ -7,6 +7,7 @@
 ## Introduction
 The **Clock Point Attendance Management System** is a robust web-based application designed to streamline attendance tracking, employee management, and salary processing for businesses. Built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js), the system automates attendance and salary calculations across different employee roles, including labour, staff, office boys, guards, and sales personnel.
 
+
 This guide provides step-by-step instructions for navigating the system’s features, ensuring efficient usage and smooth operation.
 
 ---
