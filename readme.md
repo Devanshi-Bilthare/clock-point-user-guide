@@ -6,6 +6,9 @@
 
 **Live Link** : https://clock-point.vercel.app/#/admin/dashboard
 
+**Frontend Repo** : https://github.com/Devanshi-Bilthare/National-Paints-frontend
+**Backend Repo** : https://github.com/Devanshi-Bilthare/National-paints-backend
+
 ## Introduction
 The **Clock Point Attendance Management System** is a robust web-based application designed to streamline attendance tracking, employee management, and salary processing for businesses. Built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js), the system automates attendance and salary calculations across different employee roles, including labour, staff, office boys, guards, and sales personnel.
 
